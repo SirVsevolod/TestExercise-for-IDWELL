@@ -1,0 +1,2 @@
+Для запуска докера
+docker-compose up --build
